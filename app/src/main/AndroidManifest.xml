@@ -12,8 +12,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WavesOfFood">
         <activity
+            android:name=".ChooseLocationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
             android:name=".StartActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".Splash_Screen"
             android:exported="true">

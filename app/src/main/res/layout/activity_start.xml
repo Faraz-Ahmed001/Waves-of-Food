@@ -39,6 +39,7 @@
         android:width="150dp"
         android:height="57dp"
         android:background="@drawable/greenbuttongradient"
+        android:fontFamily="@font/yeonsung_regular"
         android:text="@string/next"
         android:textColor="@color/white"
         android:textSize="20sp"
